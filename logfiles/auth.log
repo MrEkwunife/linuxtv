@@ -1,0 +1,84 @@
+Sep 17 00:17:02 DESKTOP-UFL758O CRON[750]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 17 00:17:02 DESKTOP-UFL758O CRON[750]: pam_unix(cron:session): session closed for user root
+Sep 17 01:17:01 DESKTOP-UFL758O CRON[1412]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 17 01:17:01 DESKTOP-UFL758O CRON[1412]: pam_unix(cron:session): session closed for user root
+Sep 18 09:50:20 DESKTOP-UFL758O systemd-logind[248]: New seat seat0.
+Sep 18 09:50:24 DESKTOP-UFL758O login[269]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 18 09:50:24 DESKTOP-UFL758O systemd-logind[248]: New session c1 of user chimobi.
+Sep 18 09:50:25 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 18 10:17:01 DESKTOP-UFL758O CRON[596]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 18 10:17:01 DESKTOP-UFL758O CRON[596]: pam_unix(cron:session): session closed for user root
+Sep 18 12:45:54 DESKTOP-UFL758O systemd-logind[250]: New seat seat0.
+Sep 18 12:45:55 DESKTOP-UFL758O login[242]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 18 12:45:55 DESKTOP-UFL758O systemd-logind[250]: New session c1 of user chimobi.
+Sep 18 12:45:55 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 09:11:26 DESKTOP-UFL758O systemd-logind[228]: New seat seat0.
+Sep 19 09:11:31 DESKTOP-UFL758O login[319]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 09:11:31 DESKTOP-UFL758O systemd-logind[228]: New session c1 of user chimobi.
+Sep 19 09:11:32 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 09:17:01 DESKTOP-UFL758O CRON[489]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 09:17:01 DESKTOP-UFL758O CRON[489]: pam_unix(cron:session): session closed for user root
+Sep 19 11:17:01 DESKTOP-UFL758O CRON[9285]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 11:17:01 DESKTOP-UFL758O CRON[9285]: pam_unix(cron:session): session closed for user root
+Sep 19 12:03:35 DESKTOP-UFL758O systemd-logind[222]: New seat seat0.
+Sep 19 12:03:41 DESKTOP-UFL758O login[325]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 12:03:42 DESKTOP-UFL758O systemd-logind[222]: New session c1 of user chimobi.
+Sep 19 12:03:42 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 13:00:52 DESKTOP-UFL758O systemd-logind[260]: New seat seat0.
+Sep 19 13:01:06 DESKTOP-UFL758O login[272]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 13:01:07 DESKTOP-UFL758O systemd-logind[260]: New session c1 of user chimobi.
+Sep 19 13:01:08 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 13:17:01 DESKTOP-UFL758O CRON[597]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 13:17:02 DESKTOP-UFL758O CRON[597]: pam_unix(cron:session): session closed for user root
+Sep 19 14:17:01 DESKTOP-UFL758O CRON[1057]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 14:17:01 DESKTOP-UFL758O CRON[1057]: pam_unix(cron:session): session closed for user root
+Sep 19 15:17:01 DESKTOP-UFL758O CRON[1123]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 15:17:01 DESKTOP-UFL758O CRON[1123]: pam_unix(cron:session): session closed for user root
+Sep 19 16:17:01 DESKTOP-UFL758O CRON[3506]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 16:17:01 DESKTOP-UFL758O CRON[3506]: pam_unix(cron:session): session closed for user root
+Sep 19 17:17:02 DESKTOP-UFL758O CRON[4971]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 17:17:02 DESKTOP-UFL758O CRON[4971]: pam_unix(cron:session): session closed for user root
+Sep 19 22:43:27 DESKTOP-UFL758O systemd-logind[1303]: New seat seat0.
+Sep 19 22:43:34 DESKTOP-UFL758O login[1443]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 22:43:34 DESKTOP-UFL758O systemd-logind[1303]: New session c1 of user chimobi.
+Sep 19 22:43:34 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 19 22:58:26 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/ls
+Sep 19 22:58:26 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 19 22:58:26 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 19 23:00:20 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt install htop
+Sep 19 23:00:20 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 19 23:00:23 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 19 23:10:10 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt install htop
+Sep 19 23:10:10 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 19 23:10:11 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 19 23:12:09 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt install notexits
+Sep 19 23:12:09 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 19 23:12:10 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 19 23:17:01 DESKTOP-UFL758O CRON[4562]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 19 23:17:01 DESKTOP-UFL758O CRON[4562]: pam_unix(cron:session): session closed for user root
+Sep 20 00:17:02 DESKTOP-UFL758O CRON[6609]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 20 00:17:02 DESKTOP-UFL758O CRON[6609]: pam_unix(cron:session): session closed for user root
+Sep 20 09:41:23 DESKTOP-UFL758O systemd-logind[1202]: New seat seat0.
+Sep 20 09:41:28 DESKTOP-UFL758O login[1295]: pam_unix(login:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 20 09:41:28 DESKTOP-UFL758O systemd-logind[1202]: New session c1 of user chimobi.
+Sep 20 09:41:29 DESKTOP-UFL758O systemd: pam_unix(systemd-user:session): session opened for user chimobi(uid=1000) by (uid=0)
+Sep 20 09:44:59 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 20 09:44:59 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 20 09:45:57 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:45:57 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt dist-upgrada
+Sep 20 09:45:57 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 20 09:45:57 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:51:35 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 20 09:51:35 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 20 09:51:39 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:51:39 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Sep 20 09:51:39 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 20 09:52:07 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:59:31 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt update
+Sep 20 09:59:31 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 20 09:59:47 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 09:59:47 DESKTOP-UFL758O sudo:  chimobi : TTY=pts/0 ; PWD=/home/chimobi/LearnLinuxTV ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Sep 20 09:59:47 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+Sep 20 09:59:51 DESKTOP-UFL758O sudo: pam_unix(sudo:session): session closed for user root
+Sep 20 10:17:01 DESKTOP-UFL758O CRON[3056]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Sep 20 10:17:01 DESKTOP-UFL758O CRON[3056]: pam_unix(cron:session): session closed for user root
